@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/4ef5a2f9-5731-4384-bb82-e969d18cc20d/thumbnail" >
+</p>
 <!--
 **btakahashi-90/btakahashi-90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
